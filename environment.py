@@ -2,7 +2,7 @@ import gymnasium as gym
 from gymnasium import spaces
 import numpy as np
 from reward import compute_spacecraft_reward
-from simsr_encoder import SimSREncoder
+from SimSr import SimSREncoder
 
 class SpacecraftEnv3D(gym.Env):
     metadata = {"render_modes": ["human"]}
