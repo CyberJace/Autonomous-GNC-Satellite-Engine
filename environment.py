@@ -18,7 +18,7 @@ class SpacecraftEnv3D(gym.Env):
         
         # Observation space: [x, y, z, vx, vy, vz, gx, gy, gz, fuel, 6 local LiDAR distance rays]
         self.observation_space = spaces.Box(
-            low=-np.inf, high=np.inf, shape=(11,), dtype=np.float32
+            low=-np.inf, high=np.inf, shape=(12,), dtype=np.float32
         )
         
         self.goal_pos = np.array([50.0, 50.0, 20.0])
