@@ -19,13 +19,13 @@ An autonomous Python engine that implements reinforcement learning to adjust mul
 ## Tests
 * Successful run
 * Results Example:
-  * --- Running Analysis: LOX / CH4 ---
-  * [SUCCESS] Performance trade plot saved: outputs\lox_ch4_sea_level.png
-  * Chamber temperature (Tc): 6080.40 K
-  * Mean Molecular Weight (MW): 1.15 g/mol
-  * Throat Area (A*): 3746.06 cm^2
- 
-<img width="766" height="467" alt="image" src="https://github.com/user-attachments/assets/5c13a6cf-3d0f-4ae5-915e-5cf93d7d3b18" />
+<img width="293" height="297" alt="image" src="https://github.com/user-attachments/assets/15a13325-0678-4b9c-8c55-61809cdcdec8" />
+<img width="277" height="253" alt="image" src="https://github.com/user-attachments/assets/90b9b502-ce65-4041-bab1-0e474cc74c52" />
+<img width="259" height="248" alt="image" src="https://github.com/user-attachments/assets/74406b16-9677-49c0-b6f6-b3a87b438e76" />
+
+  * Plotted Figure:
+<img width="988" height="833" alt="image" src="https://github.com/user-attachments/assets/88ffd5e0-a7db-4993-bd20-e17ab18b7a15" />
+
 
 * Disclaimer:
   * This execution proves the syntax function and accurately exhibits 1D compressible flow across chemical equilibrium and expansion ratios, however does not automatically verify a vehicle is qualified for overall real-world flight under the limit of 1D gas assumptions.
