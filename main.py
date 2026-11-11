@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from stable_baselines3 import PPO
 from environment import SpacecraftEnv3D
-from simsr_encoder import SimSREncoder
+from SimSr import SimSREncoder
 
 def run_training_and_visualization():
     print("Initializing 3D Spacecraft DRL Environment with SimSR & Multi-Mode Propulsion...")
