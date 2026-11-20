@@ -27,12 +27,10 @@ An autonomous Python engine that implements reinforcement learning to adjust mul
 <img width="988" height="833" alt="image" src="https://github.com/user-attachments/assets/88ffd5e0-a7db-4993-bd20-e17ab18b7a15" />
 
 
-* Disclaimer:
-  * This execution proves the syntax function and accurately exhibits 1D compressible flow across chemical equilibrium and expansion ratios, however does not automatically verify a vehicle is qualified for overall real-world flight under the limit of 1D gas assumptions.
  
 ## Quick Start
 
-Run **Rocket Nozzle CEA Solver** using terminal/command prompt
+Run **Autonomous GNC Satellite Engine** using terminal/command prompt
 
 ### 1. Download ZIP Folder
 Download, extract ZIP, and go to the folder of the project in files.
